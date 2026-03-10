@@ -1,4 +1,4 @@
-# Claire BAZIN - Ingénieure de Recherche
+# **$\color{teal}{\text{Claire BAZIN - Ingénieure de Recherche}}$**
 
 ### 📊 Expertise : Gestion de Données & Coordination de Recherche
 Ingénieure diplômée de l'**ENSCBP**, mon pacours m'a permis d'aborder les enjeux techniques de la filière viticole et de me spécialiser dans la gestion de protocoles de recherche. Je souhaite mettre cette rigueur et mes compétences en strcturation de données au service du Living Lab.
