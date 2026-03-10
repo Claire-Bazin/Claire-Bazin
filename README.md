@@ -22,6 +22,8 @@ Ingénieure diplômée de l'**ENSCBP**, mon pacours m'a permis d'aborder les enj
 #### **Langues**
 - Anglais professionnel : niveau B2 (TOEIC, score de 830)
 
+---
+
 ### 🧪 Expériences professionnelles
 #### **Attachée de Recherche Clinique**
 *CHU de Bordeaux (Pessac) / Sept. 2023 - En cours / CDD*
