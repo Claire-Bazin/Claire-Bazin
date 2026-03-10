@@ -60,12 +60,41 @@ Ingénieure diplômée de l'**ENSCBP**, mon pacours m'a permis d'aborder les enj
 - Rédaction de protocoles et participation à l'amélioration continue des pratiques.
 - Analyses statistiques des résultats (R Studio) et présentation des conclusions aux équipes.
 
-#### **
+#### **Ingénieure assistante R&D microbiologie**
+*BioLaffort (Floirac) / Juin - Nov. 2019 / Stage*
+- Mise en place d'un plan d'expérience pour la sélection et la caractérisation de levures.
+- Recherches bibliographiques ; Rédaction de protocoles et de rapports.
+- Analyse statistique des résultats (R Studio) ; Présentation de l'anvancée du projet.
+- Représentation de l'entrerpise chez le client.
+
+#### **Assistante de laboratoire de recherche**
+*INRAE - UFR Biologie et Pathologie du Fruit (Villenave d'Ornon) / Juin - Juil. 2017 / Stage*
+- Transformation de bactéries pour la production de protéines.
+- Tenue du cahier de laboratoire.
+
+---
+
+### 🎓 Formations
+#### **Diplôme d'Attachée de Recherche Clinique**
+*2023 - ISVM (Bordeaux)*
+
+#### **Master 2, Plantes à Valeur Santé et Biomolécules d'Intérêt**
+*2022 - Université de Bordeaux*
+- Projet d'audit d'un complément alimentaire et élaboration d'un protocole d'étude clinique.
+- Rédaction d'une revue scientifique en anglais.
+
+#### **Diplôme d'Ingénieure en Agroalimentaire - Génie biologique, spécialité Conception et Production en Industrie**
+*2020 - ENSCP (Bordeaux INP)*
+- Projet Recherche, Développement et Innovation : Etude, Formulation et Conception d'un produit alimentaire.
+- Réalisation d'un audit interne mené sur l'atelier boulangerie d'une grande surface sur le référentiel des PMS.
+
+#### **DEUG de Sciences, Technologies, Santé, mention Science de le Vie**
+*2017 - Université de Bordeaux - Mention Bien*
 
 ---
 
 ### 📫 Contact
-- [Mon profil LinkedIn](https://www.linkedin.com/in/claire-bazin/)
+- [Mon profil LinkedIn](https://www.linkedin.com/in/claire-bazin-072ba018b/)
 
 ---
 *Profil créé pour le concours d'Ingénieur de Recherche INRAE - Living Lab BACCHUS.*
