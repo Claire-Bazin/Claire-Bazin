@@ -8,8 +8,8 @@ Ingénieure diplômée de l'**ENSCBP**, mon pacours m'a permis d'aborder les enj
 ### 🛠 Compétences
 #### **Gestion de données et méthodologie**
 - **Conception sur REDCap :** Création de projets de recherche (définition des variables, paramétrage des formulaires de saisie et gestion des contrôles de cohérence).
-- **Qualité des données :** Expérience de la saisie de données sur diverses plateformes et expériences du circuit de correction et du contrôle de cohérence des données pour garantir des bases exploitables.
-- **Rigueur opérationnelle :** Mise en place de procédures de recueil pour assurer la traçabilité et la fiabilité des résultats de terrain.
+- **Qualité des données :** Expérience de la saisie de données sur diverses plateformes et expérience du circuit de correction et du contrôle de cohérence des données pour garantir des bases exploitables.
+- **Rigueur opérationnelle :** Mise en place de procédures de recueil pour assurer la traçabilité et la fiabilité des résultats.
 
 #### **Outils informatiques et statistiques**
 - **Logiciel R :** Traitement et analyse statistique de données
